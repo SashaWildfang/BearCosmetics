@@ -1,0 +1,9 @@
+# BearCosmetics configuration
+# Fill these in on your server. Never commit real credentials.
+
+database:
+  host: localhost
+  port: 3306
+  name: bearnation
+  user: ""
+  password: ""
